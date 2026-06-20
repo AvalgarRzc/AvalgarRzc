@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Avalgar 👋</h1>
+<h1 align="center">Hi, Yo soy AvalgarRzc</h1>
 
 <p align="center">
-  <strong>Desarrollador Backend enfocado en la lógica de sistemas y apasionado por la Ciberseguridad Ofensiva (Red Hat).</strong><br>
-  Especializado en construir arquitecturas robustas, automatización y auditoría de seguridad, priorizando la eficiencia del código sobre el diseño visual.
+  <strong>Desarrollador enfocado en la lógica de sistemas y apasionado por la Ciberseguridad Ofensiva (Red Hat).</strong><br>
+  Especializado en construir arquitecturas, automatización y auditoría de seguridad, priorizando la eficiencia del código sobre el diseño visual 
+  lamentablemente mi creatividad se va mas en lo estructural que en lo visual pero seguire mejorando 🧐☕.
 </p>
 
 <p align="center">
@@ -12,7 +13,7 @@
   <a href="mailto:ronaldcastillozanga@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://tryhackme.com/" target="_blank">
+  <a href="https://tryhackme.com" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </p>
@@ -50,27 +51,28 @@
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Avalgar/Avalgar/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Avalgar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> 
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Avalgar/Avalgar/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true" width="100%" alt="activity-graph graph" />
-</div>
+<p align="center">
+  <!-- Tarjeta de Idiomas Más Usados (Dinámica y Estable) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avalgar&layout=compact&theme=dracula&hide_border=false" height="160" alt="Languages Graph" />
+  
+  <!-- Tarjeta de Rachas (Streak Stats) -->
+  <img src="https://streak-stats.demolab.com?user=Avalgar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="Streak Graph" /> 
+</p>
+
+<p align="center">
+  <!-- Gráfico de Actividad General (Dinámico y Estable) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avalgar&theme=dracula&area=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
 ### ☕ Apóyame
-<div align="center">
-  <a href="https://ko-fi.com/avalgar" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="65" height="25" alt="ko-fi" /></a>
-  <a href="https://www.patreon.com/14961037/join" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="65" height="25" alt="patreon" /></a>
-</div>
 
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avalgar/Avalgar/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avalgar/Avalgar/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Avalgar/Avalgar/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
+<p align="center">
+  <a href="https://ko-fi.com/avalgar" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+  <a href="https://www.patreon.com/14961037/join" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+  </a>
+</p>
