@@ -19,10 +19,7 @@
 </p>
 
 ---
-
-###  Arquitectura de Tecnologías (Sistemas & Desarrollo)
-
-Viendo tu infraestructura como ramas lógicas conectadas:
+###
 
 <blockquote>
   <strong>📦 AvalgarRzc_Stack</strong><br>
@@ -55,7 +52,6 @@ Viendo tu infraestructura como ramas lógicas conectadas:
 
 ---
 
-### Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avalgar&layout=compact&theme=dracula&hide_border=false" height="160" alt="Languages Graph" />
