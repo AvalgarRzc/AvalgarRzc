@@ -51,15 +51,10 @@
 
 ---
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avalgar&layout=compact&theme=dracula&hide_border=false" height="160" alt="Languages Graph" />
   
   <img src="https://streak-stats.demolab.com?user=Avalgar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="Streak Graph" /> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avalgar&theme=dracula&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
