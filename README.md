@@ -1,9 +1,9 @@
 <h1 align="center">Hi, Yo soy AvalgarRzc</h1>
 
 <p align="center">
-  <strong>Desarrollador enfocado en la lógica de sistemas y apasionado por la Ciberseguridad Ofensiva (Red Hat).</strong><br>
-  Especializado en construir arquitecturas, automatización y auditoría de seguridad, priorizando la eficiencia del código sobre el diseño visual. 
-  Mi creatividad se expande en lo estructural y en la lógica interna, donde cada proceso se conecta a la perfección 🧐☕.
+  <strong>Desarrollador enfocado en la lógica de sistemas y apasionado por la Ciberseguridad Ofensiva (Red Team)<img src="https://skillicons.dev/icons?i=kali" height="18" valign="middle" />.</strong><br>
+  Mas de construir arquitecturas, automatización y auditoría de seguridad <img src="https://skillicons.dev/icons?i=py" height="18" valign="middle" />. 
+  Mi creatividad se va mas a lo interno de un sistema que en lo visual, luchando para por lo menos ser de ayuda🧐☕.
 </p>
 
 <p align="center">
@@ -22,31 +22,30 @@
 ###
 
 <blockquote>
-  <strong>📦 AvalgarRzc_Stack</strong><br>
+  <strong> AvalgarRzc_Stack</strong><br>
   ┣ 📂 <strong>Backend & Lógica</strong><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=py" height="18" valign="middle" /> <strong>Python</strong> — <em>Scripts, Automatización & IA</em><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=go" height="18" valign="middle" /> <strong>Go</strong> — <em>Servicios Concurrentes & Alto Rendimiento</em><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=nodejs" height="18" valign="middle" /> <strong>Node.js</strong> — <em>Entornos Fast API</em><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=laravel" height="18" valign="middle" /> <strong>Laravel</strong> — <em>Estructuras Robustas</em><br>
-  ┃ ┗  <img src="https://skillicons.dev/icons?i=django" height="18" valign="middle" /> <strong>Django</strong> — <em>Framework Seguro</em><br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=py" height="18" valign="middle" /> <strong>Python</strong> — <br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=go" height="18" valign="middle" /> <strong>Go</strong> — <br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=nodejs" height="18" valign="middle" /> <strong>Node.js</strong> — <br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=laravel" height="18" valign="middle" /> <strong>Laravel</strong> — <br>
+  ┃ ┗  <img src="https://skillicons.dev/icons?i=django" height="18" valign="middle" /> <strong>Django</strong> — <br>
   ┃<br>
   ┣ 📂 <strong>Ciberseguridad & Sistemas</strong><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=linux" height="18" valign="middle" /> <strong>Linux</strong> — <em>Parrot OS / Kali Linux</em><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=redhat" height="18" valign="middle" /> <strong>Red Hat</strong> — <em>Entornos Empresariales Seguros</em><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=cloudflare" height="18" valign="middle" /> <strong>Cloudflare</strong> — <em>Mitigación de Riesgos & DNS</em><br>
-  ┃ ┗  <img src="https://skillicons.dev/icons?i=docker" height="18" valign="middle" /> <strong>Docker</strong> — <em>Contenerización de Entornos Aislados</em><br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=kali" height="18" valign="middle" /> <strong>Linux</strong> — <em>Parrot/Kali Linux</em><br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=cloudflare" height="18" valign="middle" /> <strong>Cloudflare</strong> — <br>
+  ┃ ┗  <img src="https://skillicons.dev/icons?i=docker" height="18" valign="middle" /> <strong>Docker</strong> — <em>La confiable</em><br>
   ┃<br>
   ┣ 📂 <strong>Bases de Datos & Cloud</strong><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=postgres" height="18" valign="middle" /> <strong>PostgreSQL</strong> / <img src="https://skillicons.dev/icons?i=mysql" height="18" valign="middle" /> <strong>MySQL</strong> — <em>Estructuras Relacionales</em><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=sqlite" height="18" valign="middle" /> <strong>SQLite</strong> / <img src="https://skillicons.dev/icons?i=supabase" height="18" valign="middle" /> <strong>Supabase</strong> — <em>Persistencia de Datos Ágil</em><br>
-  ┃ ┗  <img src="https://skillicons.dev/icons?i=aws" height="18" valign="middle" /> <strong>AWS</strong> / <img src="https://skillicons.dev/icons?i=gcp" height="18" valign="middle" /> <strong>GCP</strong> — <em>Infraestructura Cloud</em><br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=postgres" height="18" valign="middle" /> <strong>PostgreSQL</strong> / <img src="https://skillicons.dev/icons?i=mysql" height="18" valign="middle" /> <strong>MySQL</strong> <br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=sqlite" height="18" valign="middle" /> <strong>SQLite</strong> / <img src="https://skillicons.dev/icons?i=supabase" height="18" valign="middle" /> <strong>Supabase</strong> <br>
+  ┃ ┗  <img src="https://skillicons.dev/icons?i=aws" height="18" valign="middle" /> <strong>AWS</strong> / <img src="https://skillicons.dev/icons?i=gcp" height="18" valign="middle" /> <strong>GCP</strong> — <br>
   ┃<br>
-  ┣ 📂 <strong>Lógica de Interfaces & Motores</strong><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=godot" height="18" valign="middle" /> <strong>Godot Engine</strong> / <img src="https://skillicons.dev/icons?i=blender" height="18" valign="middle" /> <strong>Blender</strong> — <em>Arquitectura de Estado y Lógica de Videojuegos</em><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=dart" height="18" valign="middle" /> <strong>Dart</strong> / <img src="https://skillicons.dev/icons?i=flutter" height="18" valign="middle" /> <strong>Flutter</strong> — <em>Estructuras Móviles Multiplataforma</em><br>
-  ┃ ┗  <img src="https://skillicons.dev/icons?i=html" height="18" valign="middle" /> <strong>HTML5</strong> / <img src="https://skillicons.dev/icons?i=css" height="18" valign="middle" /> <strong>CSS3</strong> / <img src="https://skillicons.dev/icons?i=react" height="18" valign="middle" /> <strong>React</strong> — <em>Esenciales de Aplicaciones Web</em><br>
+  ┣ 📂 <strong>Interfaces & Motores</strong><br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=godot" height="18" valign="middle" /> <strong>Godot Engine</strong> / <img src="https://skillicons.dev/icons?i=blender" height="18" valign="middle" /> <strong>Blender</strong> — <br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=dart" height="18" valign="middle" /> <strong>Dart</strong> / <img src="https://skillicons.dev/icons?i=flutter" height="18" valign="middle" /> <strong>Flutter</strong> — <br>
+  ┃ ┗  <img src="https://skillicons.dev/icons?i=html" height="18" valign="middle" /> <strong>HTML5</strong> / <img src="https://skillicons.dev/icons?i=css" height="18" valign="middle" /> <strong>CSS3</strong> / <img src="https://skillicons.dev/icons?i=react" height="18" valign="middle" /> <strong>React</strong> — <em>Esenciales WEB</em><br>
   ┃<br>
-  ┗ 📂 <strong>Control de Versiones & DevOps</strong><br>
+  ┗ 📂 <strong>Control de Versiones </strong><br>
     ┗  <img src="https://skillicons.dev/icons?i=git" height="18" valign="middle" /> <strong>Git</strong> / <img src="https://skillicons.dev/icons?i=github" height="18" valign="middle" /> <strong>GitHub</strong> / <img src="https://skillicons.dev/icons?i=netlify" height="18" valign="middle" /> <strong>Netlify</strong> / <img src="https://skillicons.dev/icons?i=vercel" height="18" valign="middle" /> <strong>Vercel</strong>
 </blockquote>
 
