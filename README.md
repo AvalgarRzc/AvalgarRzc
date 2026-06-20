@@ -1,9 +1,9 @@
-<h1 align="center">Hi, Yo soy AvalgarRzc</h1>
+<h1 align="center">Hi--Hola, Yo soy AvalgarRzc</h1>
 
 <p align="center">
-  <strong>Desarrollador enfocado en la lógica de sistemas y apasionado por la Ciberseguridad Ofensiva (Red Team)<img src="https://skillicons.dev/icons?i=kali" height="18" valign="middle" />.</strong><br>
+  <strong>---Desarrollador enfocado en la lógica de sistemas y apasionado por la Ciberseguridad Ofensiva (Red Team)<img src="https://skillicons.dev/icons?i=kali" height="18" valign="middle" />.</strong><br>
   Mas de construir arquitecturas, automatización y auditoría de seguridad <img src="https://skillicons.dev/icons?i=py" height="18" valign="middle" />. 
-  Mi creatividad se va mas a lo interno de un sistema que en lo visual, luchando para por lo menos ser de ayuda🧐☕.
+  Mi creatividad se va mas a lo interno de un sistema que en lo visual, luchando para por lo menos ser de ayuda🧐☕. ---
 </p>
 
 <p align="center">
