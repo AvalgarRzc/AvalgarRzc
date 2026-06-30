@@ -25,10 +25,8 @@
   <strong> AvalgarRzc_Stack</strong><br>
   ┣ 📂 <strong>Backend & Lógica</strong><br>
   ┃ ┣  <img src="https://skillicons.dev/icons?i=py" height="18" valign="middle" /> <strong>Python</strong> — <br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=go" height="18" valign="middle" /> <strong>Go</strong> — <br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=nodejs" height="18" valign="middle" /> <strong>Node.js</strong> — <br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=laravel" height="18" valign="middle" /> <strong>Laravel</strong> — <br>
-  ┃ ┗  <img src="https://skillicons.dev/icons?i=django" height="18" valign="middle" /> <strong>Django</strong> — <br>
+  ┃ ┗  <img src="https://skillicons.dev/icons?i=nodejs" height="18" valign="middle" /> <strong>Node.js</strong> — <br>
+  <!--┃ ┣  <img src="https://skillicons.dev/icons?i=laravel" height="18" valign="middle" /> <strong>Laravel</strong> — <br> FALTA PRACTICA Y DOMINAR PHP, pero es una de las metas-->
   ┃<br>
   ┣ 📂 <strong>Ciberseguridad & Sistemas</strong><br>
   ┃ ┣  <img src="https://skillicons.dev/icons?i=kali" height="18" valign="middle" /> <strong>Linux</strong> — <em>Parrot/Kali Linux</em><br>
@@ -36,14 +34,13 @@
   ┃ ┗  <img src="https://skillicons.dev/icons?i=docker" height="18" valign="middle" /> <strong>Docker</strong> — <em>La confiable</em><br>
   ┃<br>
   ┣ 📂 <strong>Bases de Datos & Cloud</strong><br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=postgres" height="18" valign="middle" /> <strong>PostgreSQL</strong> / <img src="https://skillicons.dev/icons?i=mysql" height="18" valign="middle" /> <strong>MySQL</strong> <br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=sqlite" height="18" valign="middle" /> <strong>SQLite</strong> / <img src="https://skillicons.dev/icons?i=supabase" height="18" valign="middle" /> <strong>Supabase</strong> <br>
-  ┃ ┗  <img src="https://skillicons.dev/icons?i=aws" height="18" valign="middle" /> <strong>AWS</strong> / <img src="https://skillicons.dev/icons?i=gcp" height="18" valign="middle" /> <strong>GCP</strong> — <br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=postgres" height="18" valign="middle" /> <strong>PostgreSQL</strong> / <strong>Oracle</strong> <br>
+  ┃ ┗  <img src="https://skillicons.dev/icons?i=sqlite" height="18" valign="middle" /> <strong>SQLite</strong> / <img src="https://skillicons.dev/icons?i=supabase" height="18" valign="middle" /> <strong>Supabase</strong> <br>
   ┃<br>
   ┣ 📂 <strong>Interfaces & Motores</strong><br>
   ┃ ┣  <img src="https://skillicons.dev/icons?i=godot" height="18" valign="middle" /> <strong>Godot Engine</strong> / <img src="https://skillicons.dev/icons?i=blender" height="18" valign="middle" /> <strong>Blender</strong> — <br>
   ┃ ┣  <img src="https://skillicons.dev/icons?i=dart" height="18" valign="middle" /> <strong>Dart</strong> / <img src="https://skillicons.dev/icons?i=flutter" height="18" valign="middle" /> <strong>Flutter</strong> — <br>
-  ┃ ┗  <img src="https://skillicons.dev/icons?i=html" height="18" valign="middle" /> <strong>HTML5</strong> / <img src="https://skillicons.dev/icons?i=css" height="18" valign="middle" /> <strong>CSS3</strong> / <img src="https://skillicons.dev/icons?i=react" height="18" valign="middle" /> <strong>React</strong> — <em>Esenciales WEB</em><br>
+  ┃ ┗  <img src="https://skillicons.dev/icons?i=html" height="18" valign="middle" /> <strong>HTML5</strong> / <img src="https://skillicons.dev/icons?i=css" height="18" valign="middle" /> <strong>CSS3</strong> / <img src="https://skillicons.dev/icons?i=javascript" height="18" valign="middle" /> <strong>JS</strong> — <em>Esenciales WEB</em><br>
   ┃<br>
   ┗ 📂 <strong>Control de Versiones </strong><br>
     ┗  <img src="https://skillicons.dev/icons?i=git" height="18" valign="middle" /> <strong>Git</strong> / <img src="https://skillicons.dev/icons?i=github" height="18" valign="middle" /> <strong>GitHub</strong> / <img src="https://skillicons.dev/icons?i=netlify" height="18" valign="middle" /> <strong>Netlify</strong> / <img src="https://skillicons.dev/icons?i=vercel" height="18" valign="middle" /> <strong>Vercel</strong>
