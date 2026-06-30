@@ -35,11 +35,11 @@
   ┃<br>
   ┣ 📂 <strong>Bases de Datos & Cloud</strong><br>
   ┃ ┣  <img src="https://skillicons.dev/icons?i=postgres" height="18" valign="middle" /> <strong>PostgreSQL</strong> / <strong>Oracle</strong> <br>
-  ┃ ┗  <img src="https://skillicons.dev/icons?i=sqlite" height="18" valign="middle" /> <strong>SQLite</strong> / <img src="https://skillicons.dev/icons?i=supabase" height="18" valign="middle" /> <strong>Supabase</strong> <br>
+  ┃ ┗  <img src="https://skillicons.dev/icons?i=sqlite" height="18" valign="middle" /> <strong>SQLite</strong> / <img src="https://skillicons.dev/icons?i=supabase" height="18" valign="middle" /> <strong>Supabase---falta falta</strong>  <br>
   ┃<br>
   ┣ 📂 <strong>Interfaces & Motores</strong><br>
   ┃ ┣  <img src="https://skillicons.dev/icons?i=godot" height="18" valign="middle" /> <strong>Godot Engine</strong> / <img src="https://skillicons.dev/icons?i=blender" height="18" valign="middle" /> <strong>Blender</strong> — <br>
-  ┃ ┣  <img src="https://skillicons.dev/icons?i=dart" height="18" valign="middle" /> <strong>Dart</strong> / <img src="https://skillicons.dev/icons?i=flutter" height="18" valign="middle" /> <strong>Flutter</strong> — <br>
+  ┃ ┣  <img src="https://skillicons.dev/icons?i=dart" height="18" valign="middle" /> <strong>Dart</strong> / <img src="https://skillicons.dev/icons?i=flutter" height="18" valign="middle" /> <strong>Flutter</strong> — todavia en practica :) <br>
   ┃ ┗  <img src="https://skillicons.dev/icons?i=html" height="18" valign="middle" /> <strong>HTML5</strong> / <img src="https://skillicons.dev/icons?i=css" height="18" valign="middle" /> <strong>CSS3</strong> / <img src="https://skillicons.dev/icons?i=javascript" height="18" valign="middle" /> <strong>JS</strong> — <em>Esenciales WEB</em><br>
   ┃<br>
   ┗ 📂 <strong>Control de Versiones </strong><br>
